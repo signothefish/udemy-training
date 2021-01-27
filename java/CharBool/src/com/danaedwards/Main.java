@@ -7,8 +7,8 @@ public class Main
 	{
 		// Width of 16 (2 bytes)
 		char myChar = '&'; // Support unicode characters, use single-quotes
-		char myNewChar = '\u00A9';
-		System.out.println("Unicode character was: " + myNewChar);
+		char myUnicodeChar = '\u0026';
+		System.out.println("Char is " + myChar + ", Unicode character was: " + myUnicodeChar);
 		
 		// Width of ... ?
 		boolean myBoolean = false;
