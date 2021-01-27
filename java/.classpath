@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ByteShortInt/src"/>
+	<classpathentry kind="src" path="CharBool/src"/>
+	<classpathentry kind="src" path="Classes/src"/>
+	<classpathentry kind="src" path="Composition/src"/>
+	<classpathentry kind="src" path="Encapsulation/src"/>
+	<classpathentry kind="src" path="FloatDouble/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="Main/src/main/java"/>
+	<classpathentry kind="src" path="Main/src/test/java"/>
+	<classpathentry kind="src" path="Methods/src"/>
+	<classpathentry kind="src" path="OOPTest/src"/>
+	<classpathentry kind="src" path="Operators/src"/>
+	<classpathentry kind="src" path="ParsingValuesFromString/src"/>
+	<classpathentry kind="src" path="Polymorphism/src"/>
+	<classpathentry kind="src" path="ReadingUserInput/src"/>
+	<classpathentry kind="src" path="Strings/src"/>
+	<classpathentry kind="src" path="VSCodeTest"/>
+	<classpathentry kind="src" path="VSCodeTest2/src/main/java"/>
+	<classpathentry kind="src" path="VSCodeTest2/src/test/java"/>
+	<classpathentry kind="output" path="ByteShortInt/target"/>
+</classpath>
